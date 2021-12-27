@@ -34,6 +34,7 @@ void updateImage(bool image[][M], int s, int x, int y)
     }
 }
 
+
 void showImage(const bool image[][M])
 {
     cout << "------------------------------------------------------------------------\n";
